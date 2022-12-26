@@ -1,0 +1,14 @@
+[package]
+name = "lmdb-in-rust"
+version = "0.12.1"
+authors = ["Kerollmops <renault.cle@gmail.com>"]
+description = "This is a translated version LMDB"
+license = "MIT"
+repository = "https://github.com/Kerollmops/lmdb-in-rust"
+keywords = ["lmdb", "database", "storage", "typed"]
+categories = ["database", "data-structures"]
+# readme = "README.md"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.139"
